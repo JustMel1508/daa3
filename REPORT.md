@@ -1,7 +1,7 @@
 # Assignment 3: Graphs, DSU, MST, SCC and Shortest Paths
 
 **Student:** Aisha Kazbekova | **Group:** SE-2518
-git add src/test/java/tests/MSTTest.java
+
 
 ## 1. Scope and reproducibility
 
@@ -152,7 +152,7 @@ cyclic graphs. Graph type determines algorithm eligibility before density determ
 
 ### Measured time
 
-Across the algorithms and densities, recorded medians at V=1,000 range from 3.621 to 18.957 ms; at V=100,000 they range from 158.491 to 11241.552 ms. Report-generation environment: Java 17.0.20, Linux amd64. The CSV is the measured-run record. JIT compilation, allocation, garbage collection, hardware and background load affect these values, especially at the smallest sizes; five-run medians reduce noise but do not make a universal speed ranking. Operation counts, graph representation and asymptotic reasoning are the primary evidence.
+Across the algorithms and densities, recorded medians at V=1,000 range from 0.804 to 7.885 ms; at V=100,000 they range from 31.704 to 2312.147 ms. Report-generation environment: Java 25.0.1, Windows 11 amd64. The CSV is the measured-run record. JIT compilation, allocation, garbage collection, hardware and background load affect these values, especially at the smallest sizes; five-run medians reduce noise but do not make a universal speed ranking. Operation counts, graph representation and asymptotic reasoning are the primary evidence.
 
 <!-- PAGEBREAK -->
 
