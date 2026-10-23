@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+*.class
+.DS_Store
+Thumbs.db
+results/*.tmp
+*.zip
