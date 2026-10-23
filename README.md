@@ -120,3 +120,5 @@ OpenAI ChatGPT assisted with implementation, automated tests, benchmark checks, 
 ## Source
 
 Course handout: Taubakabyl Nurlybek, *Design and Analysis of Algorithms, Assignment 3 - Graphs: DSU, MST, SCC and Shortest Paths*, deadline 23 October 2026. Required generator, reference values, rubric, and metric conventions follow that handout. The handout itself is not redistributed in this project.
+
+GitHub repository: git remote -v
